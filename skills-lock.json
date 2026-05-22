@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "avoid-ai-writing-zh": {
+      "source": "zero-click/avoid-ai-writing-zh",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "40a3037349473ff2b4d952b409d3d114ff83c6e1eb7bae27d0bee1c61af94746"
+    }
+  }
+}
